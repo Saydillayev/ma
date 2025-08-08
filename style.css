@@ -1,0 +1,49 @@
+h1{
+color: aliceblue;
+text-align: center;
+background-color: brown;
+padding-bottom: 30px;
+width: 500px;
+margin: auto;
+}
+.g{
+    border: 10px solid red;
+    background-color: black;
+    width: 500px;
+    margin: auto;
+    margin-top: auto 100px;
+}
+.g{
+color: aliceblue;
+}
+body{
+background-color: rgb(103, 192, 147);
+
+}
+.m{
+border: 10px solid red;
+background-color: black;
+width: 500px;
+margin: auto 100px;
+margin-top: auto 100px;
+color: aliceblue;
+text-align: center;
+margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
